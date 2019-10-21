@@ -1,0 +1,46 @@
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.exe
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.deps.json
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.runtimeconfig.json
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.runtimeconfig.dev.json
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.dll
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.pdb
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.csprojAssemblyReference.cache
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\staticwebassets\PokerHandsAPI.StaticWebAssets.Manifest.cache
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\staticwebassets\PokerHandsAPI.StaticWebAssets.xml
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.AssemblyInfoInputs.cache
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.AssemblyInfo.cs
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.dll
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.pdb
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\asaxena\source\repos\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.csproj.CopyComplete
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.dll
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.pdb
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.exe
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.deps.json
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.runtimeconfig.json
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.runtimeconfig.dev.json
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.dll
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\PokerHandsAPI.pdb
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.csprojAssemblyReference.cache
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\staticwebassets\PokerHandsAPI.StaticWebAssets.Manifest.cache
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\staticwebassets\PokerHandsAPI.StaticWebAssets.xml
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.AssemblyInfoInputs.cache
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.AssemblyInfo.cs
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sax38974\Desktop\Poker Hands\PokerHandsAPI\PokerHandsAPI\obj\Debug\netcoreapp3.0\PokerHandsAPI.csproj.CopyComplete
